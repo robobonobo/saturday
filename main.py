@@ -510,7 +510,7 @@ def handle_input(event):
 				elif event.key == K_d:
 					player.move(1,0)
 				elif event.key == K_z:
-					option_box("What is the answer?","Yes","No")
+					option_box("What do you think?","Yes","No")
 				elif event.key == K_RETURN:
 					x_coord = player.x
 					y_coord = player.y
