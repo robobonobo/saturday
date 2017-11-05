@@ -1,0 +1,40 @@
+Overworld is fairly limited - the castle, the assembly, and the surrounding town. Justified in that it is a former royal town - think Versailles. 
+
+Open with audience with the former king. The Constituent assembly has just dissolved the monarchy and placed him under arrest. The king gives his (somewhat prejudiced, somewhat honest) view of the revolution and the incoming government. 
+
+Gameplay occurs in weeks
+-opens with cabinet meeting where the ministers give you information about their respective portfolios
+-can then wander around the overworld and interact with people
+	-ministers
+		-can enact policies at the cost of political capital, money, etc
+		-can propose legislation for that week
+	-members of the constitutent assembly
+	-members of the public
+-battles
+
+Constitutent assembly
+-no party has a majority
+	-constitutional democrats
+	-peasant's party
+	-worker's solidarity
+	-christian democrats
+	-ultras
+-each party controls a given number of seats
+	-your popularity with each party determines the number of votes which your legislation will recieve when put to a vote
+	-when your popularity with a party falls below a certain point, they will vote as a block against any policy you put forward unless if it is a key interest (i.e. land redistribution for peasants, worker council ownership for workers)
+	
+Initial government
+-chief counselor, constitutional democrat
+	-respected (but not liked) by all parties, loyal
+-foreign minister, christian democrat
+-war minister, workers
+-interior, peasants
+-finance, ultras
+	-first minister to run into loyalty problems
+	
+Loss conditions
+-losing confidence of two-thirds of the assembly
+	-then faced with a choice to dissolve the assembly or lose
+		-dissolving the assembly causes the resignation of most of the cabinet, turns into one-party government of whoever supports you
+-military loss
+	-military campaign has branching win/loss paths, but losing certain conditions will result in a game-over

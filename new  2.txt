@@ -1,0 +1,26 @@
+class Enemy:
+	def __init__(self,index,name,sprites) #add misc stats
+		self.index = index
+		self.name = name
+		self.sprites = sprites
+
+class Battle:
+
+	def __init__(self):
+		self.running = False
+		self.enemies = []
+		self.dirty = 0
+	
+	def setup(self,encounter_id,background="default",music="default"): #sets up the particular encounter - loads the correct enemies from the index, sets the correct background, sets correct music, etc). Encounter ID based on room number. 
+		
+	
+	def handle_input(self,input):
+		
+		self.turn(player_action)
+	
+	def draw(self):
+		
+	
+	def turn(self,player_action): 
+	#execute player action, determine and execute enemy action, check to see if anyone died, cleanup status effects / dots, check to see if battle should be ended
+		
