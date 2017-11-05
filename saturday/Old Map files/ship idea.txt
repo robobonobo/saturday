@@ -1,0 +1,5 @@
+New idea:
+
+Think Star Trek anniversary game. Portions of the game occur in the ship as you travel around - top-down overworld with different rooms. You can give orders to engineering, tactical, research, etc. You can also talk with the crew a la Mass Effect. Away missions use the top-down overworld and play more like an adventure game. Away-team combat and space combat are handled with a turn-based system more like a traditional RPG. For space combat, you give orders like "close distance, deploy countermeasures, fire, repair, disengage. Away-team combat looks like a turn-based, order-driven RPG system. Would very much like to have minor skill elements to combat - think Paper Mario making the timing of button presses significant. 
+
+You assume command after the ship was attacked. Large sections of the ship are inaccessable due to hull breaches and many systems have been damaged or no longer have trained personnel to use them. Over the course of the game, you can get the ship repaired and bring specialists aboard.
